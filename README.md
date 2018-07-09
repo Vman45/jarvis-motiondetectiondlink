@@ -9,6 +9,8 @@ For multi-language plugin:
 - clone the language directory and translate commands/functions.sh
 - optionally write the Description / Usage sections in several languages
 -->
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoff.ee/WikiJM)
+
 ## Description
 Permet d'activer/désactiver la fonctionnalité de détection de mouvement sur une caméra web DCS-932L de la marque D-Link.
 Ce plugin est dédié à l'assistante domotique Jarvis (https://github.com/alexylem/jarvis).
